@@ -1,0 +1,1 @@
+{"do_lower_case": true, "model_max_length": 512, "special_tokens_map_file": "/root/.cache/torch/transformers/fd0c61d4c96b13e6a516155554dfe01128f36675252a321c5ed0b889c88ffe6f.275045728fbf41c11d3dae08b8742c054377e18d92cc7b72b6351152a99b64e4", "full_tokenizer_file": null}

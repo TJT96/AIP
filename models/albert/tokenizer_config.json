@@ -1,0 +1,1 @@
+{"do_lower_case": true, "max_len": 512, "keep_accents": true, "special_tokens_map_file": "/root/.cache/torch/transformers/a567087ca424c8bff169eada361523a2dacd7aa4b9b291bdc197d40fe838cb10.4f0d42b1849e2d6fd72c735fba48dff0d2f0a55f5d1961e79bcfce337d354167", "full_tokenizer_file": null}

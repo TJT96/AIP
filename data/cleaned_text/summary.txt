@@ -1,0 +1,794 @@
+1 INTRODUCTION
+1.1 International flights into, from or over Singapore territory shall be subject to the current Singapore regulations
+ relating to civil aviation. These regulations correspond in all essentials to the Standards and Recommended
+ Practices contained in Annex 9 to the Convention on International Civil Aviation.
+
+1.2 Aircraft flying into or departing from Singapore territory shall make their first landing at, or final departure from
+ an international aerodrome (see AIP Singapore page AD 1.3-1 and section AD 2).
+
+1.3 Notwithstanding the regulations relating to civil aviation over Singapore territory, aircraft operators should consult
+ the respective AIPs for other documentary and / or permit requirements for flights intending to enter, depart,
+ and / or overfly the sovereign airspaces of States along the planned flight routes.
+
+2 APPLICATION FOR SLOTS AT SINGAPORE CHANGI AIRPORT
+2.1 Singapore Changi Airport is a slot coordinated airport, with Changi Airport Group (CAG) as the Slot Coordinator.
+ To ensure efficiency of aircraft operations and optimisation of airport resources, all operators of scheduled and
+ non-scheduled (commercial and non-commercial) flights must obtain slots from the Changi Slot Coordinator
+ prior to the operation of such flights.
+
+2.2 To apply for slots for access to Singapore Changi Airport, all operators or agents of non-scheduled, commercial
+ and non-commercial flights shall submit applications for slots via either a Slot Clearance Request (SCR) to the
+ Changi Slot Coordinator, or for operators without a 2-letter IATA airline code, a General (Aviation) Clearance
+ Request (GCR) through the Online Coordination System (OCS) (at www.online-coordination.com).
+ Changi Slot Coordinator
+ c/o Changi Airport Group (Singapore) Pte Ltd
+ Singapore Changi Airport
+ P.O. Box 168
+ Singapore 918146
+ Email: csc@changiairport.com
+ Tel: +65 6541 2378 or +65 6541 3064
+
+2.3 Operators or agents of non-scheduled, commercial and non-commercial flights shall submit their slot requests
+ to the Changi Slot Coordinator no earlier than 7 calendar days and but no later than 24 hours prior to the operation
+ of the flight, for which the slot will be utilized.
+
+2.4 To facilitate the optimisation of aircraft parking resources at Singapore Changi Airport, operators or agents of
+ non-scheduled, commercial and non-commercial flights are strongly advised to limit their ground time to no more
+ than 48 hours from the arrival slot timing.
+
+2.5 For urgent non-scheduled, commercial and non-commercial flight operations that are less than 24 hours from
+ the proposed date of operation, in addition to submitting the SCR/GCR, operators/agents must also inform the
+ Airside Operations Section of CAG (Airside Management Centre) at +65 6603 4906 / +65 6541 2275 /
+ +65 6541 2273.
+
+2.6 EXEMPT FLIGHTS
+
+2.6.1 Notwithstanding paragraph 2.1, the following types of flights may operate to / from Singapore Changi Airport
+ without obtaining slots from the Changi Slot Coordinator:
+ - Emergency landings. e.g. diversions or quick returns after takeoff, oil spill response operations
+ - Flights operating under diplomatic cover
+ - Flights operated by the military, including those carrying supplies but excluding those chartered on a commercial
+ basis by the military
+ - Humanitarian flights including those responding to medical emergencies where the safety of human life is
+ concerned or involved in search and rescue operations
+ - Technical flights including radar and NAVAID calibration / check flights
+
+2.7 RESTRICTIONS ON OPERATION OF PROPELLER AIRCRAFT AT SINGAPORE CHANGI AIRPORT
+
+2.7.1 Both scheduled and non-scheduled (commercial and non-commercial) propeller aircraft operations will not be
+ allocated new slots at Singapore Changi Airport.
+
+
+3 SUBMISSION OF FLIGHT DETAILS AND APPLICATION FOR SLOTS AT SELETAR AIRPORT
+3.1 Seletar Airport is a schedules facilitated airport, with Changi Airport Group (CAG) as the Seletar Schedules
+ Facilitator. To ensure efficiency of aircraft operations and optimisation of airport resources, all operators of
+ non-scheduled (commercial and non-commercial) flights must submit details of their planned operations to the
+ Seletar Schedules Facilitator prior to these operations. Operators shall also be prepared to make adjustments
+ to their schedules when necessary as advised by the Seletar Schedules Facilitator to ensure that airport capacity
+ parameters are not exceeded. In addition, all operators of scheduled flights must obtain slots from the Seletar
+ Schedules Facilitator prior to the operation of such flights. No operation will be permitted without the approval
+ of the Seletar Schedules Facilitator.
+
+3.2 For non-scheduled (commercial and non-commercial) flight operations, operators or agents shall submit details
+ of their planned operations to seletar.airside@changiairport.com during the flights submission window, defined
+ as no earlier than 7 calendar days but no later than 1400 UTC / 2200 LT on the day prior to the planned operations.
+
+3.3 For urgent non-scheduled (commercial and non-commercial) flight operations of which details were not submitted
+ during the flights submission window, operators or agents must submit the details to
+ seletar.airside@changiairport.com and call to inform the Airside Operations Section of Seletar Airport at
+ +65 6481 5077.
+
+3.4 Operators or agents shall include the following details of the flight operations in their submission:
+
+ - Name of operator and appointed ground handling agent;
+ - Date and time of arrival and departure (in local time);
+ - Aircraft type and seat capacity;
+ - Origin and destination;
+ - Aircraft registration number; and
+ - Purpose of flight (e.g. business aviation; general aviation; cargo; maintenance, repair and operations (MRO);
+ etc.).
+
+3.5 For scheduled flight operations, operators shall submit applications for slots via a Slot Clearance Request (SCR)
+ to csc@changiairport.com.
+
+3.6 All operators shall adhere to the IATA Worldwide Slot Guidelines (WSG). A copy of this document can be
+ obtained from www.iata.org/wsg
+
+3.7 EXEMPT FLIGHTS
+
+3.7.1 Notwithstanding paragraph 3.1, the following types of flights may operate to / from Seletar Airport without
+ submitting details of their flight operations to the Seletar Schedules Facilitator during the flights submission
+ window as stipulated in paragraph 3.2:
+
+ - Emergency landings, e.g. diversions or quick returns after takeoff, oil spill response operations;
+ - Flights operating under diplomatic cover;
+ - Flights operated by the military, including those carrying supplies but excluding those chartered on a commercial basis by the military;
+ - Humanitarian flights including those responding to medical emergencies where the safety of human life is concerned or involved in search & rescue operations; and
+ - Technical flights including radar and NAVAID calibration /check flights.
+
+3.7.2 However, operators or agents of exempt flights shall call to inform the Airside Operations Section of Seletar
+ Airport at +65 6481 5077 of their flight operations in advance.
+
+3.8 DESIGNATED HOURS FOR TRAINING FLIGHTS
+
+3.8.1 To optimise the use of capacity, training and non-training flights will be segregated through designated hours
+ for training flights. Non-training flights will not be permitted at Seletar Airport during the following periods from
+ Tuesdays to Sundays:
+
+ - 0130 to 0230 UTC / 0930 to 1030 LT;
+ - 0400 to 0500 UTC / 1200 to 1300 LT;
+ - 0700 to 0800 UTC / 1500 to 1600 LT; and
+ - 0900 to 1000 UTC / 1700 to 1800 LT.
+
+3.8.2 All operators or agents and pilots are to plan their flight schedules with sufficient buffers to avoid the designated
+ hours for training flights.
+
+3.8.3 Notwithstanding paragraph 3.8.1, the following types of flights may be permitted during the designated hours
+ for training flights:
+
+ - Emergency landings, e.g. diversions or quick returns after takeoff, oil spill response operations;
+ - Flights operating under diplomatic cover; and
+ - Humanitarian flights including those responding to medical emergencies where the safety of human life is
+ concerned or involved in search & rescue operations.
+
+4 CIVIL SCHEDULED FLIGHTS
+
+4.1 GENERAL
+4.1.1 Before a scheduled service is permitted to operate into the Republic of Singapore, it must be appropriately
+ covered by either an air services agreement, a licence issued in accordance with the Air Navigation (Licensing
+ of Air Services) Regulations or other aeronautical arrangements. All scheduled flights are subject to prior approval.
+
+4.2 APPLICATION FOR TRAFFIC LANDINGS AND UPLIFTS (SCHEDULED FLIGHTS)
+4.2.1 Only the airline operator may apply for permission to operate scheduled flights.
+
+4.2.2 All airline operators are to submit their applications for scheduled flights for each IATA schedule season one
+ month before the start of the season for approval by CAAS.
+
+4.2.3 In addition, airline operators are also required to apply for CAAS’ approval for any revisions to their schedule
+ filings for the season, ad-hoc changes to flight schedules and flight cancellations. Such applications should be
+ filed through the CAAS Air Transport Licensing and Administration System (ATLAS) at
+ https://appserver1.caas.gov.sg/ATLAS 5 working days before flight changes take place.
+
+4.2.4 If insufficient notice as specified in paragraphs 3.2.2 and 3.2.3 is given, the application may not be considered.
+
+4.2.5 Airline operators are to ensure that a copy of the following documents, which are to remain valid during the
+ period of operations, are lodged with CAAS:
+
+ a. Certificate(s) of Registration(s) for aircraft used;
+ b. Certificate(s) of Airworthiness for aircraft used; and
+ c. Air Operator’s Certificate
+
+4.2.6 All applications and required documents listed in paragraph 3.2.5 should be submitted via ATLAS.
+
+4.3 DOCUMENTARY REQUIREMENTS FOR CLEARANCE OF AIRCRAFT
+4.3.1 It is necessary that the undermentioned aircraft documents be submitted by airline operators for clearance on
+ entry and departure of their aircraft to and from Singapore. All documents listed below must follow the ICAO
+ standard format as set forth in the relevant appendices to ICAO Annex 9. They are acceptable in English only
+ and must be completed in legible handwriting. No visas are required in connection with such documents.
+
+4.3.2 Aircraft Documents Requirements (arrival/departure)
+ a. One copy of the General Declaration is endorsed and returned by Customs, signifying clearance.
+ b. If no passengers are embarking (disembarking) and no articles are laden (unladen), no aircraft documents
+ except copies of the General Declaration need be submitted to the above authorities.
+
+5 CIVIL NON-SCHEDULED FLIGHTS
+
+5.1 PROCEDURES
+
+5.1.1 Overflights
+5.1.1.1 Prior notification is necessary. Subject to the observance of the terms of the Convention on International Civil
+ Aviation, Singapore facilitates overflights by civil aircraft registered in any ICAO Contracting States with which
+ Singapore has diplomatic relations provided adequate advance notification shall have been given.
+
+5.1.1.2 Notification by flight plan addressed to the Singapore Air Traffic Control Centre (WSJCZQZX) if received at
+ least 2 hours in advance of the aircraft’s arrival into the Singapore Flight Information Region will normally be
+ accepted as advance notification in this respect.
+
+5.1.1.3 In all other cases, prior permission must be sought and obtained through diplomatic means from the Ministry of
+ Foreign Affairs, Republic of Singapore.
+
+ 5.1.2 Non-Traffic or Technical Landings
+ 5.1.2.1 Prior notification is necessary. Subject to the observance of the terms of the Convention on International Civil
+ Aviation, Singapore facilitates such non-traffic or technical landings by civil aircraft registered in any ICAO
+ Contracting States with which Singapore has diplomatic relations provided adequate advance notification shall
+ have been given.
+
+ 5.1.2.2 Notification by flight plan addressed to the Singapore Air Traffic Control Centre (WSJCZQZX) if received at
+ least 2 hours in advance of the aircraft’s arrival at Singapore Changi Airport or Seletar Aerodrome or 2 hours
+ prior to entering the Singapore Flight Information Region whichever is the earlier will normally be accepted as
+ advance notification in this respect.
+
+ 5.1.2.3 All business aviation aircraft shall park in a nose-in position and be pushed back with the aid of an aircraft
+ tow-bar and tow-tractor. Reverse thrust or variable pitch propellers shall not be used. The aircraft must carry
+ its own tow-bar. The aircraft operator may make arrangements with the ground handling agent to provide the
+ tow-bar. The aircraft shall be required to be towed to another aircraft stand should the need arise.
+
+ 5.1.2.4 All passengers of the business aviation flight will have to clear CIQ via the Commercially-Important- Persons
+ facility located at Terminal 2.
+
+ 5.1.2.5 All business aviation flights must engage a ground handling agent at Singapore Changi Airport.
+
+ 5.1.2.6 In all other cases, prior permission must be sought and obtained through diplomatic means from the Ministry of
+ Foreign Affairs, Republic of Singapore.
+
+ 5.1.2.7 All non-traffic aircraft are to submit a copy of the Certificate of Airworthiness to CAAS, after each landing, by
+ facsimile at 6545 6519 or by email to CAAS_FS_FOS@caas.gov.sg
+ 
+ 5.1.3 Application for Traffic Landings and Uplifts (Non-Scheduled Flights)
+ 5.1.3.1 All non-scheduled flights are subject to prior approval.
+
+ 5.1.3.2 Only the operator may apply for permission to operate a non-scheduled flight. The following information should
+ be submitted together with the application:
+ a. Name, address and nationality of operator;
+ b. Name, address and business of charterer;
+ c. Type, registration mark and carrying capacity of aircraft;
+ d. Aircraft documents listed in para 3.2.5;
+ e. Nature of flight including details of whether the flight is to carry passengers or cargo or both;
+
+ i. for passenger flights: points of origin and destination of passengers, purpose of flight e.g. special
+ event charter, inclusive tours and own-use charter; and the names of passengers.
+ ii. for cargo flights: the origin, destination, description, quantities and dimensions of cargo;
+ outbound/inbound or transhipment, as well as whether any item is perishable or classified as
+ dangerous, explosive or munitions of war. (Please see regulations concerning importation,
+ transhipment and exportation of cargo in subsection GEN 1.4).
+
+ f. Details of route, points of landing and final destination;
+ g. Date and time of arrival at, and departure from Singapore (Please see para 4.1.3.4 below);
+ h. Name, address and telephone number of operator's local agent and ground handling agent;
+ i. Name and address of consignees and consignors, where applicable;
+ j. Any other information that may be relevant to the proposed operations.
+
+ 5.1.3.3 All applications must be submitted via https://appserver1.caas.gov.sg/ATLAS
+
+ The complete application and its supporting documents must reach the Civil Aviation Authority of Singapore Air
+ Transport Division via the weblink provided at least 3 working days prior to the aircraft’s arrival or departure
+ into/from Singapore to be considered for a “normal permit”. Operators who wish to obtain a permit under 3
+ working days may submit their applications. Such applications must reach the Air Transport Division at least
+ 24 hours before the proposed flight to be considered for an “express permit”. Applicants for express permits
+ should alert the Air Transport Duty Officer at +65 98331775. Applications will not be considered if insufficient
+ notice is given (not applicable for emergency flights e.g. flights on humanitarian grounds).
+
+ 5.1.3.4 Operators, other than operators of business aviation aircraft as stated in para 4.1.3.5, should schedule their
+ arrivals and departures at Singapore Changi Airport outside the hours 0001 to 0200 UTC (0801-1000 LT) and
+ 0900 to 1559 UTC (1700-2359 LT). Subject to approval (depending on aircraft stand availability), aircraft may
+ be permitted to remain on the ground during the above times on condition that the aircraft vacates the aircraft
+ stand if the need arises. (Please see GEN 4.1 para 1.5 b) regarding off-peak discount of 40% on landing
+ charges).
+
+ All business aviation aircraft operating as executive jet charter may be permitted to remain on the ground or
+ layover at Singapore Changi Airport.
+
+ All business aviation aircraft shall park in a nose-in position and be pushed back with the aid of an aircraft
+ tow-bar and tow-tractor. Reverse thrust or variable pitch propellers shall not be used when parking or pushing
+ back aircraft. The aircraft operator must ensure that an appropriate tow-bar for the aircraft type is available to
+ facilitate push back operations from the aircraft stand. The aircraft operators may use their own tow-bar or
+ approach ground handling agents in either Seletar or Singapore Changi Airport to secure the appropriate tow-bar.
+ All passengers of the business aviation flight will have to clear CIQ via the Commercially-Important-Persons
+ facility located beside Terminal 2.
+
+ Requests to handle executive jet charter or charter flights via the main terminals are to be sent via email to
+ csc@changiairport.com for exceptional consideration at all times.
+
+ All business aviation flights must engage aground handling agent at Singapore Changi Airport.
+	 The appropriate legislation dealing with non-scheduled flights for hire or reward is contained in PART III -
+ Permits For Journeys Other Than Scheduled Journeys of the Air Navigation (Licensing of Air Services)
+ Regulations. Any person who uses any aircraft in contravention of the provisions of Regulation 15 of the legislation
+ shall be guilty of an offence and shall be liable on conviction to a fine not exceeding S$2,500 or to imprisonment
+ for a term not exceeding 3 months or to both and in the case of a second or subsequent offence, to a fine not
+ exceeding S$20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+Permit Fees
+ (a) Normal Permits:
+ The following fees shall be paid to the Authority [in accordance with Regulation 18 of the Air Navigation (Licensing
+ of Air Services) Regulations] to obtain a permit which must be applied at least 3 whole working days before the
+ first flight:
+ i. S$84 for a single one-way or return flight;
+ ii. S$162 for 2 or more one-way or return flights but not more than 5 such flights;
+ iii. S$326 for 5 one-way or return flights but not more than 10 such flights; or
+ iv. S$810 for more than 10 one-way or return flights.
+
+ (b) Express Permits:
+
+ Operators who wish to obtain a permit under 3 working days, but at least 24 hours before the flight, should
+ contact the Duty Officer at +65 98331775 and submit a complete application via this weblink:
+ https://appserver1.caas.gov.sg/ATLAS. The following fee shall be paid:
+ i. S$252 for a single one-way or return flight.
+
+ Note 1: “Working Day” means:
+ i. a period that begins at 8.30am and ends at 6pm on any Monday to Thursday that CAAS is open for
+ business; and
+ ii. a period that begins at 8.30am and ends at 5.30pm on any Friday that CAAS is open for business.
+
+ Note 2: Any application that is made after the close of business shall be deemed to have been made on the
+ next working day.
+
+ Definitions:
+
+ Non-scheduled flight - a flight for the carriage of passengers, mail or cargo by air for hire and reward on journeys
+ other than scheduled.
+
+ Business aviation flight - a flight that is owned and operated privately by a business corporation or chartered
+ privately by business or corporate executives for non-revenue purposes.
+
+ Charterer - a person, company or corporate body who charters the aircraft and whose name and address appear
+ in the Aircraft Charter Agreement.
+
+ Operator- in relation to an aircraft, the person for the time being having the business management of that aircraft.
+
+ DOCUMENTARY REQUIREMENTS FOR CLEARANCE OF AIRCRAFT
+ Same requirements as for SCHEDULED FLIGHTS.
+
+
+5.3 PERMIT CONDITIONS
+5.3.1 The Director-General of Civil Aviation may attach such conditions to a permit as he considers necessary.
+
+5.4 APPLICATION FOR DIPLOMATIC CLEARANCE FOR FOREIGN STATE AIRCRAFT
+
+5.4.1 Procedures for Applying Diplomatic Clearance for Landing and Overflight for Foreign
+ State Aircraft in Singapore
+5.4.1.1 Except where otherwise agreed, all Foreign State aircraft intending to land at or overfly Singapore are to obtain
+ diplomatic clearance for such landing or overflight from the Ministry of Foreign Affairs, giving information as in
+ para 4.4.2.
+
+5.4.1.2 The application is to be made giving at least 14 days’ notice.
+
+5.4.2 Information to be provided when applying for Diplomatic Clearance
+5.4.2.1 All applications for diplomatic clearance should contain the following information:
+ a. Name of Mission/Organisation;
+ b. Liaison Officer;
+ c. Telephone Number;
+ d. Number and Type of Aircraft;
+ e. Callsign;
+ f. Aircraft Registration;
+ g. Full flight itinerary;
+ h. Route after entering and before leaving Singapore FIR;
+ i. Date of Arrival;
+ j. Time of Arrival;
+ k. Date of Departure;
+ l. Time of Departure;
+ m. Arrival from;
+ n. Departing to;
+ o. Airfield requested;
+ p. Name of Pilot;
+ q. Number of Crew;
+ r. Number of Passengers;
+ s. If VIP flight, Name of VIP and number of other officials;
+ t. Purpose;
+ u. Photograph and sensory equipment if any;
+ v. Nature of freight or cargoes carried if any;
+ w. Dangerous cargoes, if any (e.g. arms, ammunition, explosives, toxic chemicals);
+ x. Types of services required (e.g. type of fuel, APU/GPU, ground handling etc.);
+ y. Additional/Special request
+
+ Note: Aircraft used in military, customs or police services are deemed to be State aircraft.
+
+6 APPLICATION FOR TEST FLIGHTS
+6.1 All applications for test flights are subject to prior approval.
+
+6.2 All applications are to be made at least 2 working days but not more than 2 weeks in advance. If notice is not
+ complied with, the application may not be considered.
+
+6.3 Applicants should provide details as listed in items a. to e. below and ensure that the documents as listed in
+ items f. to h. of the aircraft undergoing test flights remain valid during the period of operation:
+ a. Aircraft Registration;
+ b. Aircraft Callsign;
+ c. Aircraft Type;
+ d. Date / Time / Duration of flight;
+ e. Point of Departure and Arrival;
+ f. Certificate of Registration;
+ g. Certificate of Airworthiness;
+ h. A Permit to Fly, issued by CAAS, in the absence of a valid Certificate of Airworthiness.
+
+
+6.4 All applications should be submitted to:
+ Post:
+ Duty Manager, Singapore Air Traffic Control Centre
+ Civil Aviation Authority of Singapore
+ 60 Biggin Hill Road, Singapore 509950
+ Email: caas_atsops@caas.gov.sg
+ Fax: 65457526
+
+6.5 Details on flight planning for test flights are listed at ENR 1.10 FLIGHT PLANNING.
+
+7 AIRCRAFT BANNED FROM OPERATIONS AT SINGAPORE AERODROMES
+7.1 The Antonov-12 aircraft is banned from all operations to/from Singapore aerodromes due to concerns over its
+ continuing airworthiness.
+
+ GEN 1.3 ENTRY, TRANSIT AND DEPARTURE OF PASSENGERS AND CREW
+
+1 CUSTOMS REQUIREMENTS
+1.1 The Red and Green Channel system is operated at the Airport to expedite customs clearance of arriving air
+ passengers. All arriving passengers shall present themselves personally with their baggage and make oral
+ declarations at the Red Channel if they have any prohibited or controlled goods or goods exceeding their duty-free
+ concession and Goods and Services Tax (GST) import relief. If they do not have any of such goods, they may
+ leave the Arrival Hall through the Green Channel. However, selective checks may be conducted on passengers
+ going through the Green Channel. All crew members shall produce their baggage for clearance at the Red
+ Channel only. Departing passengers are not subject to Customs formalities unless required to do so. Baggage
+ may be examined in such manner as deemed necessary and it shall be the duty of the person in charge of the
+ baggage to produce, open, unpack and repack such baggage.
+
+1.2 Dutiable Goods. All dutiable goods brought into Singapore are subject to customs duty and/or excise duty and
+ GST. There are 4 categories of dutiable goods: Intoxicating liquors; tobacco products; motor vehicles; and motor
+ fuel. Please refer to the Singapore Customs’ website for the latest list of dutiable goods and their respective
+ duty rates. There is no customs duty on goods exported from Singapore.
+
+1.3 Duty-Free Allowance. Travellers are entitled to duty-free concession for liquors if they meet all the following
+ conditions:
+ - Is 18 years of age and above;
+ - Have spent 48 hours or more outside Singapore immediately before arrival;
+ - Not arriving from Malaysia;
+ - The liquor is for personal consumption; and
+ - The liquor is not prohibited from import into Singapore.
+
+ Bona-fide crew members are granted duty-free concession on 0.25 litre of spirits and 1 litre of wine or 1 litre of
+ beer.
+
+1.4 GST Taxable Goods. All goods brought into Singapore are subject to GST, at the prevailing rate of 7 percent.
+ GST is levied on the value of goods, which may include the cost, insurance and freight (CIF) plus other chargeable
+ costs and the duty payable (if applicable).
+
+1.5 GST Import Relief. Travellers (excluding crew members and holders of a work permit, employment pass,
+ student pass, dependent pass or long-term pass issued by the Singapore Government), are granted GST import
+ relief on new articles, souvenirs, gifts and food preparations brought into Singapore. These goods must be
+ intended for traveller's personal use or consumption and not for sale. The GST import relief amount is based
+ on the number of hours the traveller has spent outside Singapore
+
+ There is no GST import relief and duty-free concession on intoxicating liquor and tobacco products, as well as
+ goods imported for commercial purposes.
+
+ For more information on duty-free concession and GST import relief, please visit Singapore Customs’ website.
+
+1.6 Declaration and Payment of Duty and/or GST. Arriving travellers are required to declare and pay the duty
+ and GST to bring in dutiable and taxable goods exceeding their duty-free concession and GST import relief.
+ For convenience, you are encouraged to make an advance declaration and payment of duties and GST prior
+ to your arrival through our Customs@SG mobile app or web portal. Once tax payment is successful, the app
+ will create an e-receipt in your mobile device and you may exit the Arrival Hall via the Green Channel. If you are
+ stopped for checks, you can show the e-receipt stored in your mobile device as proof of payment to the officers.
+
+ Please visit Singapore Customs’ website for more information on the Customs@SG mobile app and web portal.
+ Alternatively, you may proceed directly to the Customs Tax Payment Office or the Red Channel upon arrival to
+ declare your goods. Please present supporting documents such as invoices or receipts indicating the value of
+ your goods to facilitate declaration and payment (if necessary).
+
+1.7 Goods Requiring a Customs Import Permit. A valid Customs import permit is required for clearance if
+ travellers are carrying (but not limited to):
+
+ - More than 0.4 kilogrammes of cigarettes or other tobacco products;
+ - More than 10 litres of liquor products;
+ - More than 0.5 kilogrammes of investment precious metals for personal use;
+ - More than 10 litres of motor fuel;
+ - Goods for trade or commercial use the GST on which exceeds S$300; or
+ - Goods clearly marked as trade samples (excluding liquors and tobacco products) the value of which exceeds S$400
+
+1.8 Prohibited Goods. The following items are NOT allowed to be imported into Singapore. Some examples of
+ prohibited goods include (but not limited to):
+
+ - Chewing gum (except approved oral dental and medicated gum by Singapore's Health Sciences Authority)
+ - Chewing tobacco and imitation tobacco products (e.g. electronic cigarettes, etc)
+ - Nasal snuff
+ - Oral snuff (including snus and dipping tobacco)
+ - Gutkha, Khaini and Zarda
+ - Shisha
+ - Smokeless cigars, smokeless cigarillos or smokeless cigarettes
+ - Dissolvable tobacco or nicotine. Any product containing nicotine or tobacco that may be used topically for application, by implant or injected into any parts of the body
+ - Any solution or substance, of which tobacco or nicotine is a constituent, that is intended to be used with an electronic nicotine delivery system or vaporizers
+ - Cigarette lighters of pistol or revolver shape
+ - Controlled drugs and psychotropic substances
+ - Endangered species of wildlife and their by-products
+ - Firecrackers
+ - Obscene articles, publications, video tapes/discs and software
+ - Reproduction of copyright publications, video tapes, video compact discs, laser discs, records or cassettes
+ - Seditious and treasonable materials
+
+ It is an offence to attempt to bring prohibited goods into Singapore.
+
+1.9 Controlled Goods. You are required to obtain an import permit or authorisation form from the relevant Competent
+ Authorities before you can bring controlled goods into Singapore. Please produce the goods and the import
+ permit or authorisation form to the checking officer at the Red Channel on your arrival. Some examples of
+ controlled goods include (but not limited to):
+ - Animals, birds, fish and their products
+ - CDs, DVDs, films and video games
+ - Arms and explosives
+ - Medicines and pharmaceutical products
+ - Telecommunication and radio communication equipment
+
+ Please visit Customs website for more information on controlled and prohibited goods .
+
+2 IMMIGRATION REQUIREMENTS
+2.1 All passengers are required to present themselves with their travel documents for examination, and endorsements
+ (if necessary). Every passenger must fill in a Disembarkation/Embarkation form (including one for each child)
+ except Singaporeans, Permanent Residents and long term pass holders.
+
+2.2 Any person entering Singapore from a place outside Singapore, or is leaving Singapore for a place outside
+ Singapore (including aircrew entering or leaving Singapore on test flights) shall present to an immigration officer
+ at an authorised airport, a valid passport or a valid travel document recognised by the Government of Singapore
+ (in the case of an alien, a visa for Singapore where such a visa is required) with the exception of the following
+ persons:
+
+ a. A member of the Singapore Armed Forces travelling on duty;
+ b. A member of such Visiting Forces as the Minister may determine;
+ c. Any child or person who is included in the passport or other travel document of a parent of the child, or of
+ a spouse or other relative of the person and is accompanying that parent, spouse or relative (as the case
+ may be) when travelling to and leaving from Singapore.
+
+AIP AMDT 03/2019 © 2019 Civil Aviation Authority Singapore
+AIP Singapore GEN 1.3-3
+ 25 APR 2019
+
+2.3 Nationals of the following countries require visas for the purpose of social visits in Singapore (with exception of
+ an aircrew who is an airline crew member that, in the course of a journey on duty from a place outside Singapore
+ to Singapore, or from a place outside Singapore to a place outside Singapore, calls at an authorised airport):
+ - Afghanistan
+ - Algeria
+ - Bangladesh
+ - Commonwealth of Independent States i.e. Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, and Uzbekistan
+ - Democratic People's Republic of Korea
+ - Egypt
+ - Georgia
+ - India
+ - Iran
+ - Iraq
+ - Jordan
+ - Kosovo
+ - Lebanon
+ - Libya
+ - Mali
+ - Morocco 
+ - Nigeria
+ - People's Republic of China
+ - Pakistan
+ - Saudi Arabia 
+ - Somalia
+ - Sudan
+ - Syria
+ - Tunisia
+ - Turkmenistan
+ - Ukraine
+ - Yemen
+
+ Visitors holding Hong Kong Document of Identity, Macao Special Administrative Region (MSAR) Travel Permit,
+ Palestinian Authority Passport, Refugee Travel Document issued by the Middle-East countries and Temporary
+ Passport issued by United Arab Emirates will also require a visa to enter Singapore.
+
+ Holders of diplomatic, official and service passports do not need a visa for entry.
+
+ Holders of diplomatic, public affairs and service passports do not need a visa for entry.
+
+ Holders of diplomatic and official passports do not need a visa for entry
+
+   Holders of diplomatic passports do not need a visa for entry
+
+ These travel documents are subjected to assessment of recognition for entry into Singapore
+
+ Nationals of Commonwealth of Independent States (Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan,
+ Moldova, Russia, Tajikistan, and Uzbekistan), Georgia, Turkmenistan, and Ukraine may qualify for the 96-hour
+ visa free transit facility (VFTF) provided that:
+
+ a. the person is in transit to a third country;
+ b. the person holds a valid passport, confirmed onward air-ticket, entry facilities (including visa) to the third
+ country and have sufficient funds for the period of stay in Singapore;
+ c. the person continues his journey to the third country within 96 hours visa free period granted; and
+ d. the person satisfies Singapore's entry requirements.
+
+
+
+
+© 2019 Civil Aviation Authority Singapore AIP AMDT 03/2019
+GEN 1.3-4 AIP Singapore
+25 APR 2019
+
+ Nationals of India and the PRC may qualify for the 96-hour VFTF provided that:
+
+ a. the person is in transit to or from a third country via Singapore by any mode of transport and will depart
+ via air or sea;
+
+ b. the person holds a valid passport and confirmed onward air/ferry/cruise ticket for departure from Singapore
+ within 96 hours;
+
+ c. the person has a valid visa/long-term pass (with a validity of at least 1 month from the date of entry into
+ Singapore under the VFTF) issued by any of the following countries:
+
+ - Australia
+ - Canada
+ - Germany
+ - Japan
+ - New Zealand
+ - Switzerland
+ - United Kingdom
+ - United States of America
+
+
+ A visa is considered valid so long as it is good for entry into one of the eight countries listed above. Travellers
+ with Single Journey Visas (SJV) may still be granted VFTF on the return leg of their journey (i.e. after the SJV
+ is used and no longer valid), but:
+
+ - the person must travel directly from the country that issued the SJV, en route through Singapore, back to
+ their home country
+ - the person must not have returned to their home country since they last used the SJV.
+
+
+2.4 Visitors must satisfy the following basic entry requirements before they are allowed to enter Singapore:
+
+ a. They are in possession of valid passports with at least 6 months’ validity with assurance of their re-entry
+ into their countries of residence or origin;
+ b. They have sufficient funds to last for the intended period of stay in Singapore;
+ c. They hold confirmed onward/return tickets and entry facilities (including visas) to their onward destinations;
+ and
+ d. They have a Yellow Fever Vaccination Certificate, if applicable.
+
+ The granting of social visit passes to all visitors is determined by the Immigration & Checkpoints Authority (ICA)
+ officers at the point of entry.
+
+3 PUBLIC HEALTH REQUIREMENTS
+3.1 Strict compliance with the provisions of the International Health Regulations, 2005, of the World Health
+ Organisation, and Singapore's Infectious Diseases Act is required.
+
+3.2 The pilot-in-command of an aircraft landing at Airports in Singapore shall furnish the Airport Health Officer with
+ one copy of the General Declaration form (see ICAO Annex 9 Appendix 1) and one copy of the Passenger
+ Manifest (see ICAO Annex 9 Appendix 2) signed by the pilot-in-command.
+
+3.3 Vaccination Certificate Requirements for entry into Singapore are as follows:
+
+ A valid International Certificate of Vaccination for yellow fever is required from travellers above one year of age
+ who have been in or have passed through any country with risk of yellow fever transmission in the six days
+ before arriving in Singapore. The certificate is valid for life, beginning from 10 days after the date of vaccination
+ (this applies to existing and new certificates). An exemption letter, signed by a medical practitioner, is required
+ for individuals who are exempted from being vaccinated before entry into Singapore. Please refer to Singapore's
+ Immigration & Checkpoints Authority website for the updated list of countries with risk of yellow fever transmission.
+
+
+
+
+AIP AMDT 03/2019 © 2019 Civil Aviation Authority Singapore
+AIP Singapore GEN 1.3-5
+ 25 APR 2019
+
+4 FLYING LICENCES AND RATINGS
+
+4.1 VISITING PILOTS - HOLDERS OF NON-SINGAPORE PILOT LICENCES
+4.1.1 When a holder of a non-Singapore pilot’s licence wishes to fly on a Singapore registered aircraft in a private
+ capacity in Singapore, he will be required to apply for a Certificate of Validation for his foreign licence. The
+ Certificate of Validation, if approved, will be issued for this purpose only and for a limited period. The applicant
+ would also be required to fulfil certain conditions. Pilots who wish to apply for a Certificate of Validation should
+ contact the Personnel Licensing Section of the Civil Aviation Authority of Singapore (see address in paragraph
+ 4.2.2 below)
+
+4.2 CONVERSION OF FOREIGN LICENCE TO SINGAPORE LICENCE
+4.2.1 Pilots holding valid licences, including an instrument rating and/or flying instructor’s rating issued by ICAO
+ Contracting States, may be considered for the conversion of their licences under the following conditions:
+
+ a. The pilot must demonstrate formal prospective employment by a Singapore air operator, approved training
+ organisation or flying club to operate on Singapore registered aircraft.
+ (This requirement will not be applicable for the conversion of a foreign licence to a Singapore PPL.)
+
+ b. The pilot’s foreign licence and its associated ratings must be valid from the time of application to the time
+ of issue of a Singapore licence and its associated ratings.
+
+ c. The pilot must fulfil all conversion terms as specified by CAAS within a period of 6 months preceding the
+ issue of a Singapore licence and its associated ratings.
+
+
+
+4.2.2 Further details on the conversion of a foreign licence can be obtained from:
+
+ Safety Policy and Planning Division
+ Personnel Licensing Section
+ Civil Aviation Authority of Singapore
+ Singapore Changi Airport Terminal 2
+ South Finger Pier Level 3
+ Unit No. 038-039
+ Singapore 819643
+
+ TEL: (65) 65412482
+ FAX: (65) 65434941
+
+4.3 PILOTS WHO HAVE ATTAINED THE AGE OF 65
+4.3.1 Any pilot who has attained his 65th birthday shall not be permitted to act as pilot-in-command or co-pilot of an
+ aircraft engaged in scheduled or non-scheduled international commercial air transport operations within Singapore
+ airspace.
+
+ GEN 1.4 ENTRY, TRANSIT AND DEPARTURE OF CARGO
+
+1 CUSTOMS REQUIREMENTS CONCERNING CARGO AND OTHER ARTICLES
+1.1 The following supporting documents: Airway Bill, Invoice, Packing List together with Customs Permits [for all
+ goods including controlled goods, dutiable goods and goods subject to Goods and Services Tax (GST)] are to
+ be produced if they are required for checks by Immigration and Checkpoints Authority officers at the checkpoint.
+
+1.2 The following are applicable to the Free Trade Zone (FTZ):
+
+ a. Transhipment within the same FTZ (In Through Airway Bill cases), no Customs documentation is required
+ if the items are not controlled by the Competent Authorities (CAs);
+ b. Transhipment of controlled goods within the same FTZ (In Through Airway Bill cases), a transshipment
+ (Through transshipment within the same FTZ) permit is required; and
+ c. Import for re-export within the same FTZ (In Non-Through Airway Bill cases), an import permit is required
+ for the importation of goods into the FTZ and an export permit is required for the exportation of goods from
+ the same FTZ.
+
+
+1.3 Under the Strategic Goods (Control) Act (SGCA), goods in transhipment or transit are subject to controls under
+ the full control list. No clearance documents are required for strategic goods in transhipment or transit which
+ are taken into a FTZ immediately after they have been brought into Singapore and stay in the FTZ for not more
+ than 45-days (for sea) / 21-days (for air) except for certain categories of goods. For transhipment and transit of
+ certain sensitive strategic goods (listed under the Fourth and Fifth Schedule of the SGCR) and goods that are
+ intended or likely to be used for nuclear, chemical or biological weapon purposes, or missiles capable of delivering
+ such weapons (i.e. catch-all for WMD purposes), a strategic good permit is still required. Depending on the
+ conditions stated in the permits, these goods may be required to be presented for Customs clearance at the
+ checkpoint
+
+1.4 For the exportation of dutiable goods from a Licensed Warehouse, or non-dutiable goods from a Zero-GST
+ Warehouse, Customs outward permits are to be presented for checkpoint inspection and clearance.
+
+1.5 For the importation and exportation of controlled goods, depending on the Competent Authorities’(CA)
+ requirements, these goods may be required to be presented for Customs clearance at the checkpoint. For more
+ information on the list of Controlled and Prohibited Goods for the importation and exportation of goods, please
+ visit the respective pages on the Singapore Customs website. You may also refer to the Strategic Goods and
+ the United Nations Security Council Sanctions webpages for more information on the relevant topics.
+
+2 VETERINARY, ANIMALS, BIRDS, MEAT, FISH AND PLANT QUARANTINE
+ REQUIREMENTS
+2.1 Prior permission of the Agri-Food and Veterinary Authority (AVA) is required for import, export or transshipment
+ of:
+
+ a. Animals, birds, eggs, meat and meat products(including canned or processed meat), animal products,
+ veterinary biological, fertilizers containing animal products;
+
+ b. Fish (for human consumption as well as for aquaria), fisheries products (in all forms), aquatic animals (alive
+ or dead).
+
+ c. Plants and propagatable plant parts including cuttings, seeds and bulbs with or without potting medium,
+ organic fertilisers of plant origin, live insects and microorganisms. Plant produce including cutflowers, fruits
+ and vegetables from the American Tropics (between Lat 23 1 / 2°N and 23 1 / 2 °S).
+
+
+2.2 In the case of live animals, prior permission is also required for animals in transit. No prior permission required
+ for transshipment of plants and plant products.
+
+2.3 Prior permission of the Agri-Food and Veterinary Authority (AVA) is required for the import and export of all
+ species of wild animals and plants and their parts or derivatives protected under the Convention on International
+ Trade in Endangered Species of Wild Fauna and Flora (CITES).
+
+
+
+
+© 2019 Civil Aviation Authority Singapore AIP AMDT 04/2019
+GEN 1.4-2 AIP Singapore
+15 AUG 2019
+
+3 REQUIREMENTS RELATING TO ARMS AND EXPLOSIVES
+3.1 The import, export and transhipment of all arms, explosives, component parts, munitions and weapons including
+ swords, sword-sticks, kukris, parangs, daggers, spears, spear-heads, toy pistols, airguns, etc. are strictly
+ controlled. Permits must be obtained and applications should be made to the Arms and Explosives Branch,
+ Commissioner of Singapore Police, Block J, Kinloss Complex, No 3 Ladyhill Road, Singapore 258672 (Fax:
+ 65-67340531) at least 2 weeks before the intended date of air carriage. Severe penalties are provided for
+ non-compliance of requirements.
+
+4 REQUIREMENTS FOR THE CARRIAGE OF DANGEROUS GOODS AND MUNITIONS
+ OF WAR (INCLUDING ARMS AND EXPLOSIVES) IN AIRCRAFT
+
+4.1 DANGEROUS GOODS
+4.1.1 Paragraph 50D of the Air Navigation Order state that dangerous goods shall not be carried or have loaded in
+ an aircraft unless the operator of the aircraft has been granted with a dangerous goods permit granted by the
+ Director-General of Civil Aviation and in accordance with any conditions which may be imposed. This provision
+ applies to all aircraft flying to, from or over the Republic of Singapore, and to Singapore registered aircraft
+ wherever they may be. Where an operator of an aircraft has diplomatic clearance from the Ministry of Foreign
+ Affairs to land the aircraft in Singapore, the operator is not required, for the period of time that the diplomatic
+ clearance is valid, to obtain a dangerous goods permit.
+
+4.1.2 A dangerous goods permit, if granted, is subject to compliance with Annex 18 to the Convention on International
+ Civil Aviation and the latest edition of the ICAO Technical Instructions relating to the Safe Transport of Dangerous
+ Goods by Air.
+
+4.1.3 Operators who wish to carry dangerous goods should submit their applications to the address below, in the
+ prescribed form, giving full details of the consignment:
+
+ Flight Standards Division
+ Civil Aviation Authority of Singapore
+ Singapore Changi Airport
+ P.O.Box 1, Singapore 918141
+ FAX: (65) 65456519
+ TEL: (65) 65413487
+
+ Each application must be supported by a shipper's declaration form, airway bill and commercial invoice. All
+ airline operators planning to carry dangerous goods to, from or through Singapore may request for the application
+ forms from Flight Standards Division, CAAS (email: CAAS_dangerousgoods@caas.gov.sg). These applications
+ should be submitted at least 7 working days before the intended date of carriage.
