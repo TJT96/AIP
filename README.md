@@ -36,3 +36,15 @@ I then extracted 40 questions from this passage using [**cdQA-annotator**](https
                                               Changi Slot Coordinator no earlier than 7 calendar days and but no later than 24 hours prior to the operation of the
                                               flight, for which the slot will be utilized"}]}]}
 ```
+## Evaluation
+Each model is evaluated by their top three predictions for each question, based on F1 score. Here is a quick summary of the formula:
+Precision = (No. of correctly predicted words) / (No. of words in prediction)
+Recall = (No. of correctly predicted words) / (No. of words in actual answer)
+F1 = 2 * (precision * recall) / (precision + recall)
+
+## Results
+I shortlisted the top-performing models (ALBERT and ELECTRA), and constructed an ensemble to see if accuracy can be improved. This is done by first assigning a weight to each model based on their accuracy. We then obtain a 'confidence probability' for each prediction made by a model, which is multiplied by their respective weights. The prediction with the highest score is chosen, as it has the greatest likelihood of being correct. Unfortunately, I did not have sufficient RAM to include more models in the ensemble.
+|          |  ALBERT  | ELECTRA | Ensemble (ALBERT + ELECTRA) |
+|:--------:|:--------:|:-------:|:---------------------------:|
+| F1 Score |  0.5745  |  0.5471 |            0.7166           |
+
