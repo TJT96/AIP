@@ -45,6 +45,7 @@ Each model is evaluated by their top three predictions for each question, based 
 ## Results
 After evaluating each of the models, I then constructed two ensembles based on models with the highest synergy. This is done by first assigning a weight to each model based on their accuracy. We then obtain a 'confidence probability' for each prediction made by a model, which is multiplied by their respective weights. The prediction with the highest score is chosen, as it has the greatest likelihood of being correct. 
 - Note: [**colab**](https://colab.research.google.com) does not provide sufficient memory to run > 1 model, so I had to run it on [**gradient**](https://gradient.paperspace.com/notebooks) instead.
+
 | F1 Score                |  ALBERT  | ROBERTA |  ELECTRA |   BERT   | Ensemble (ALBERT + ELECTRA)  | Ensemble (ALBERT + ROBERTA)  |
 |:-----------------------:|:--------:|:-------:|:--------:|:--------:|:----------------------------:|:----------------------------:|
 | Overall                 |  0.5745  | 0.5781  |  0.5471  | 0.3472   |           0.7166             |           0.6890             | 
