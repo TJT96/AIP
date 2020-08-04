@@ -43,13 +43,14 @@ Each model is evaluated by their top three predictions for each question, based 
 - F1 = 2 * (precision * recall) / (precision + recall)
 
 ## Results
-I shortlisted the top-performing models (ALBERT and ELECTRA), and constructed an ensemble to see if accuracy can be improved. This is done by first assigning a weight to each model based on their accuracy. We then obtain a 'confidence probability' for each prediction made by a model, which is multiplied by their respective weights. The prediction with the highest score is chosen, as it has the greatest likelihood of being correct. Unfortunately, I did not have sufficient RAM to include more models in the ensemble.
-| F1 Score                |  ALBERT  | ROBERTA |  ELECTRA |   BERT   | Ensemble (ALBERT + ELECTRA) |
-|:-----------------------:|:--------:|:-------:|:--------:|:--------:|:---------------------------:|
-| Overall                 |  0.5745  | 0.5781  |  0.5471  | 0.3472   |           0.7166             |
-| Single Supporting Fact  |  0.5952  | 0.7437  |  0.6708  | 0.4400   |           0.7379             |
-| Yes/No Questions        |  0.2899  | 0.2222  |  0.6667  | 0.3939   |           0.6667             |
-| Lists/Sets              |  0.5931  | 0.4477  |  0.1333  | 0.1200   |           0.5931             |
-| Simple Negation         |  0.8488  | 0.3140  |  0.2465  | 0.0612   |           0.8488             |
+I recorded down the top-performing models, and constructed an ensemble to see if accuracy can be improved. This is done by first assigning a weight to each model based on their accuracy. We then obtain a 'confidence probability' for each prediction made by a model, which is multiplied by their respective weights. The prediction with the highest score is chosen, as it has the greatest likelihood of being correct. 
+Note: Google colab does not provide sufficient memory to run > 1 model, so I had to run it on [**gradient**](https://gradient.paperspace.com/notebooks) instead.
+| F1 Score                |  ALBERT  | ROBERTA |  ELECTRA |   BERT   | Ensemble (ALBERT + ELECTRA)  | Ensemble (ALBERT + ROBERTA)  |
+|:-----------------------:|:--------:|:-------:|:--------:|:--------:|:----------------------------:|:----------------------------:|
+| Overall                 |  0.5745  | 0.5781  |  0.5471  | 0.3472   |           0.7166             |           0.6890             | 
+| Single Supporting Fact  |  0.5952  | 0.7437  |  0.6708  | 0.4400   |           0.7379             |           0.7640             |          
+| Yes/No Questions        |  0.2899  | 0.2222  |  0.6667  | 0.3939   |           0.6667             |           0.2962             |
+| Lists/Sets              |  0.5931  | 0.4477  |  0.1333  | 0.1200   |           0.5931             |           0.6594             |
+| Simple Negation         |  0.8488  | 0.3140  |  0.2465  | 0.0612   |           0.8488             |           0.8721             |
 
 
