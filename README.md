@@ -48,8 +48,8 @@ I shortlisted the top-performing models (ALBERT and ELECTRA), and constructed an
 |:-----------------------:|:--------:|:-------:|:---------------------------:|
 | Overall                 |  0.5745  |  0.5471 |            0.7166           |
 | Single Supporting Fact  |  0.5952  |  0.6708 |            0.7379           |
-| Yes/No Questions        |  0.290   |  0.667  |            0.667            |
-| Lists/Sets              |  0.593   |  0.133  |            0.593            |
-| Simple Negation         |  0.849   |  0.247  |            0.849            |
+| Yes/No Questions        |  0.2899  |  0.6667 |            0.6667           |
+| Lists/Sets              |  0.5931  |  0.1333 |            0.5931           |
+| Simple Negation         |  0.8488  |  0.2465 |            0.8488           |
 
 
