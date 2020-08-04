@@ -44,7 +44,12 @@ Each model is evaluated by their top three predictions for each question, based 
 
 ## Results
 I shortlisted the top-performing models (ALBERT and ELECTRA), and constructed an ensemble to see if accuracy can be improved. This is done by first assigning a weight to each model based on their accuracy. We then obtain a 'confidence probability' for each prediction made by a model, which is multiplied by their respective weights. The prediction with the highest score is chosen, as it has the greatest likelihood of being correct. Unfortunately, I did not have sufficient RAM to include more models in the ensemble.
-|          |  ALBERT  | ELECTRA | Ensemble (ALBERT + ELECTRA) |
-|:--------:|:--------:|:-------:|:---------------------------:|
-| F1 Score |  0.5745  |  0.5471 |            0.7166           |
+| F1 Score                |  ALBERT  | ELECTRA | Ensemble (ALBERT + ELECTRA) |
+|:-----------------------:|:--------:|:-------:|:---------------------------:|
+| Overall                 |  0.5745  |  0.5471 |            0.7166           |
+| Single Supporting Fact  |  0.5952  |  0.6708 |            0.7379           |
+| Yes/No Questions        |  0.290   |  0.667  |            0.667            |
+| Lists/Sets              |  0.593   |  0.133  |            0.593            |
+| Simple Negation         |  0.849   |  0.247  |            0.849            |
+
 
